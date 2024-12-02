@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   background-image: url(Group6.png);
+   background-repeat: no-repeat;
+}
+
+
+
+.container {
+    border-radius: 15px;
+    background-color: #035CD5;
+    color: azure;
+    width: 250px;
+    height: 220px;
+   text-align: center;
+   margin-top: 50px;
+   padding: 20px;
+  
+}
+
+.container form{
+    margin-bottom: 10px;
+}
+.botao{
+  margin-top: 15px;
+}
+.contatos{
+margin-bottom: 10px;
+
+}
+ img{
+    width: 200px;
+}
+.equipe p{
+    color: #035CD5;
+    align-items: center;
+    
+}
+.geral {
+    display: flex;
+    gap: 40px;
+
+}
+.equipe{
+    margin-left: 40px;
+    margin-top: 35px;
+    text-align: center;
+}
